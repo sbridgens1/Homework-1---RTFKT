@@ -52,3 +52,12 @@ Although RTFKT and Nike have a ways to go before topping the $4.7 billion in rev
 ## Recommendations
 
 * Although RTKFT and Nike have been performing exceptionally well, If I were to advise the company, I would suggest incorperating a tradional method of payment (in addition to current method which is using cryptocurrencies, more specifically etherium) to allow for a wider adoption by individuals who have no interest in the underlying asset (ethereum) and make it easier for everyone to get involved. These methods include Visa, Mastercard and more recently Apple Pay. As it stands, only inidviduals who are interested NFTs and Cryptocurrencies have a wider understanding of their offering.
+
+
+## Resources 
+
+* https://explodingtopics.com/blog/nft-trends
+
+* https://www.highsnobiety.com/p/rtfkt-funding-digital-supreme/
+
+* https://rtfkt.com/wtf
